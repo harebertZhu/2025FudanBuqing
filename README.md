@@ -15,6 +15,10 @@
 │   └── 使用LSTM进行IMDB影评情感分析
 └── 3.name-generation-LSTM
     └── 使用LSTM进行美国人名生成
+└── 4.seq2seq-translation
+    └── 使用Seq2Seq进行机器翻译
+└── README.md
+└── requirements.txt
 ```
 
 ---
